@@ -1,0 +1,13 @@
+Package: com.babyyoda777.Tiny14
+Name: Tiny14
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: iPhone X gestures for devices with home buttons. Supports 6s- SE 2020. Based of Little11 and Little12. Huge thanks to Ryan Nair.
+Maintainer: babyyoda777
+Author: babyyoda777
+Section: My Tweaks
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Version: 1.0.0
+Installed-Size: 1024
