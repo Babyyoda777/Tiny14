@@ -1,2 +1,3 @@
 # Tiny14
 Based of little12 and little11 by Ryan Nair
+Tiny 14 is something along the lines of a lite version of the original little12 with features such as the different taskbars removed. It is compareable to modernUI, except Tiny14's source code is from little12. This began as a personal project when I noticed little12 has app launch issues. I decided to edit it to make my own version and eventually released it on my repo as I though it would be helpful for many. If you want to use this tweak, add babyyoda777.github.io to Sileo, Zebra or Installer. Cydia is currently broken for my repo and will try to fix soon. Thanks. 
